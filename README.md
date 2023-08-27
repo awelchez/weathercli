@@ -9,6 +9,17 @@ Navigate to the project directory.
 ## Prerequisites
 Python 3.6+
 
+pystyle
+
+httpx
+
+To install the pystyle and httpx libraries, do `pip install -r requirements.txt` in the repository folder.
+You may individually install each of these libraries by doing:
+```
+pip install pystyle
+pip install httpx
+```
+
 # Usage
 Open a terminal or command prompt.
 
